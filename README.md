@@ -2,7 +2,7 @@
 The core code to run tree example using nanoowl which is obtained from Nvidia.
 
 ## Process Note 
-### Trouble Shooting
+### Trouble Shooting for Jetson Orin Nano (Jetpack 6.2)
 
 ```python
 ModuleNotFoundError: No module named 'aiohttp'
