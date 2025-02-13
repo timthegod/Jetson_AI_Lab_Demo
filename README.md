@@ -1,7 +1,7 @@
 # nanoowl_demo
 The core code to run tree example using nanoowl which is obtained from Nvidia.
 
-## Process Note 
+## Process Note (https://www.jetson-ai-lab.com/vit/tutorial_nanoowl.html)
 ### Trouble Shooting for Jetson Orin Nano (Jetpack 6.2)
 
 ```python
