@@ -38,4 +38,5 @@ The output should list `/ssd/16GB.swap`
 5. After these you will have enough swap for quantization 
 
 ##### No enough memory when using Efficient-Large-Model/VILA1.5-3b
-1. Try run with openai/clip-vit-base-patch32
+1. Try run with Salesforce/blip-image-captioning-base
+2. Make sure the model needs to be MLC LLM supported small-scale vision-language model
